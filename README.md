@@ -1,3 +1,4 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Jenish Gandhi</h1>
 
 <h3 align="center">
@@ -9,8 +10,8 @@ Computer Engineering Student
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
-- 🌱 Currently learning **Machine Learning** and **.net**
-- 💻 Interested in Software Development and AI
+- 🌱 Currently learning **Machine Learning** and **.NET**
+- 💻 Interested in Software Development and Artificial Intelligence
 - 🚀 Building Web, Mobile, and Machine Learning Projects
 - 📚 Always learning new technologies
 
@@ -35,7 +36,7 @@ Computer Engineering Student
 # ⚙️ Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,flutter" />
+<img src="https://skillicons.dev/icons?i=dotnet,flutter,dart" />
 </p>
 
 ---
@@ -43,11 +44,11 @@ Computer Engineering Student
 # 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 <p align="center">
-<b>Also Familiar With:</b> Microsoft SQL Server
+<b>Also Familiar With:</b> Microsoft SQL Server & SQL Server Management Studio (SSMS)
 </p>
 
 ---
@@ -60,46 +61,20 @@ Computer Engineering Student
 
 - Pandas
 - NumPy
-- Jupyter Notebook
 - Matplotlib
+- Jupyter Notebook
 
 ---
 
 # 🛠️ Tools & IDEs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
 </p>
-
----
-
-# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-
+<b>Other Tools:</b> SQL Server Management Studio (SSMS)
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue"/>
-</p>
-
----
-
-# 🚀 Current Projects
-
-- 📈 Bank Marketing Campaign Prediction
-- ❤️ Cardiovascular Disease Prediction
-- 😷 Face Mask Detection
-- 🌐 ASP.NET MVC Web Application
-- 📱 Flutter Mobile Applications
 
 ---
 
@@ -107,19 +82,17 @@ Computer Engineering Student
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
-
-<!-- Uncomment and replace with your LinkedIn profile if you have one
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
--->
 
 </p>
 
@@ -128,3 +101,4 @@ Computer Engineering Student
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
+```
