@@ -9,7 +9,7 @@ Computer Engineering Student
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
-- 🌱 Currently learning **Machine Learning** and **Deep Learning**
+- 🌱 Currently learning **Machine Learning** and **.net**
 - 💻 Interested in Software Development and AI
 - 🚀 Building Web, Mobile, and Machine Learning Projects
 - 📚 Always learning new technologies
