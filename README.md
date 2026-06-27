@@ -35,7 +35,7 @@ Computer Engineering Student
 # ⚙️ Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,flask,flutter" />
+<img src="https://skillicons.dev/icons?i=dotnet,flutter" />
 </p>
 
 ---
@@ -60,7 +60,6 @@ Computer Engineering Student
 
 - Pandas
 - NumPy
-- Scikit-learn
 - Jupyter Notebook
 - Matplotlib
 
