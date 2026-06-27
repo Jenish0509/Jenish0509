@@ -74,15 +74,15 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Jenish0509">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/Jenish Gandhi/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="mailto:your.email@example.com">
+<a href="jenishkgandhi2006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 </p>
