@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jenish Gandhi</h1>
 
 <h3 align="center">
-Computer Engineering Student | Machine Learning Enthusiast | Flutter Developer
+Computer Engineering Student
 </h3>
 
 ---
