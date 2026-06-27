@@ -1,75 +1,68 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Jenish Gandhi</h1>
 
-<h3 align="center">
-Computer Engineering Student
-</h3>
+<h3 align="center">Computer Engineering Student</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 🌱 Currently learning **Machine Learning** and **.NET**
-- 💻 Interested in Software Development and Artificial Intelligence
-- 🚀 Building Web, Mobile, and Machine Learning Projects
-- 📚 Always learning new technologies
+* 🎓 Computer Engineering Student
+* 🌱 Currently learning **Machine Learning** and **.NET**
+* 💻 Interested in Software Development and Artificial Intelligence
+* 🚀 Building Web, Mobile, and Machine Learning Projects
+* 📚 Always learning new technologies
 
 ---
 
-# 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,java,python,js,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,dart" />
 </p>
 
 ---
 
-# 🌐 Frontend Development
+## 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ---
 
-# ⚙️ Backend & Frameworks
+## ⚙️ Backend & Frameworks
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=dotnet,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,dart" />
 </p>
 
 ---
 
-# 🗄️ Databases
+## 🗄️ Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 <p align="center">
-<b>Also Familiar With:</b> Microsoft SQL Server & SQL Server Management Studio (SSMS)
+<b>Also Familiar With:</b> Microsoft SQL Server, SQL Server Management Studio (SSMS)
 </p>
 
 ---
 
-# 🤖 Machine Learning
+## 🤖 Machine Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
 ---
 
-# 🛠️ Tools & IDEs
+## 🛠️ Tools & IDEs
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio" />
 </p>
 
 <p align="center">
@@ -78,27 +71,22 @@ Computer Engineering Student
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
 <a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
-
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
-```
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
