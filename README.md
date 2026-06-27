@@ -4,103 +4,127 @@
 Computer Engineering Student | Machine Learning Enthusiast | Flutter Developer
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Machine+Learning+Learner;Flutter+Developer;Python+%7C+ASP.NET+Developer" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
 - 🌱 Currently learning **Machine Learning** and **Deep Learning**
-- 💻 Interested in **Python, Flutter, ASP.NET MVC, and AI**
-- 🚀 Building real-world software and ML projects
+- 💻 Interested in Software Development and AI
+- 🚀 Building Web, Mobile, and Machine Learning Projects
 - 📚 Always learning new technologies
-- 📫 Reach me at **your.email@example.com**
 
 ---
 
-## 🛠️ Languages & Technologies
+# 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,dotnet,flutter,dart,mysql,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=c,cs,java,python,js,dart" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌐 Frontend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+# ⚙️ Backend & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dotnet,flask,flutter" />
+</p>
+
+---
+
+# 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<p align="center">
+<b>Also Familiar With:</b> Microsoft SQL Server
+</p>
+
+---
+
+# 🤖 Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Pandas
+- NumPy
+- Scikit-learn
+- Jupyter Notebook
+- Matplotlib
+
+---
+
+# 🛠️ Tools & IDEs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue"/>
 </p>
 
 ---
 
-## 📈 GitHub Contribution Graph
+# 🚀 Current Projects
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+- 📈 Bank Marketing Campaign Prediction
+- ❤️ Cardiovascular Disease Prediction
+- 😷 Face Mask Detection
+- 🌐 ASP.NET MVC Web Application
+- 📱 Flutter Mobile Applications
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Technology |
-|----------|------------|
-| 📈 Bank Marketing Campaign Prediction | Python, Machine Learning, Flask |
-| ❤️ Cardiovascular Disease Prediction | Python, Scikit-learn |
-| 🌐 ASP.NET MVC CRUD Project | ASP.NET MVC, SQL Server |
-| 📱 Flutter Application | Flutter, Dart |
-| 📚 Data Structures in C | C Programming |
-| 💻 Java Desktop Application | Java |
-
----
-
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
 <a href="mailto:your.email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
+
+<!-- Uncomment and replace with your LinkedIn profile if you have one
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+-->
 
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
