@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jenish Gandhi</h1>
-<h3 align="center">Computer Engineering Student | Machine Learning Enthusiast | Python Developer</h3>
+
+<h3 align="center">
+Computer Engineering Student | Machine Learning Enthusiast | Flutter Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Machine+Learning+%7C+Python+Developer;Flask+%7C+ASP.NET+MVC;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Machine+Learning+Learner;Flutter+Developer;Python+%7C+ASP.NET+Developer" />
 </p>
 
 ---
@@ -11,16 +14,17 @@
 
 - 🎓 Computer Engineering Student
 - 🌱 Currently learning **Machine Learning** and **Deep Learning**
-- 💻 Interested in **Python, Flask, ASP.NET MVC, and AI**
-- 🚀 Building real-world Machine Learning projects
-- 📫 Reach me at: **your-email@example.com**
+- 💻 Interested in **Python, Flutter, ASP.NET MVC, and AI**
+- 🚀 Building real-world software and ML projects
+- 📚 Always learning new technologies
+- 📫 Reach me at **your.email@example.com**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,dotnet,html,css,js,bootstrap,flask,mysql,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cs,dotnet,flutter,dart,mysql,git,github,vscode&perline=7" />
 </p>
 
 ---
@@ -28,8 +32,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -37,15 +44,15 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 </p>
 
 ---
@@ -53,43 +60,48 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 📈 Bank Marketing Prediction | Machine Learning project using Scikit-learn & Flask |
-| ❤️ Cardiovascular Disease Prediction | Healthcare classification model |
-| 😷 Face Mask Detection | CNN using PyTorch |
-| 🌐 ASP.NET MVC CRUD | Web application with SQL Server |
-| 📚 Data Structures | Sorting, Searching, Graph Algorithms |
+| Project | Technology |
+|----------|------------|
+| 📈 Bank Marketing Campaign Prediction | Python, Machine Learning, Flask |
+| ❤️ Cardiovascular Disease Prediction | Python, Scikit-learn |
+| 🌐 ASP.NET MVC CRUD Project | ASP.NET MVC, SQL Server |
+| 📱 Flutter Application | Flutter, Dart |
+| 📚 Data Structures in C | C Programming |
+| 💻 Java Desktop Application | Java |
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+<a href="mailto:your.email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
